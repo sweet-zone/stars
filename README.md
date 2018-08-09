@@ -1,0 +1,2 @@
+# stars
+article, blog, repository
