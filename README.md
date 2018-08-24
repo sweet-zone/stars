@@ -12,3 +12,7 @@ article, blog, repository
 ## 2018-8-22
 
 * [Node Interview](https://elemefe.github.io/node-interview/#/)
+
+## 2018-8-24
+
+* [三角函数在前端动画中的应用](https://w3ctrain.com/2018/08/20/trigonometry-you-must-know/)
