@@ -16,3 +16,4 @@ article, blog, repository
 ## 2018-8-24
 
 * [三角函数在前端动画中的应用](https://w3ctrain.com/2018/08/20/trigonometry-you-must-know/)
+* [前端关于单点登录的知识](https://juejin.im/post/5b73c71fe51d45666016655a) 
