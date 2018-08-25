@@ -17,3 +17,7 @@ article, blog, repository
 
 * [三角函数在前端动画中的应用](https://w3ctrain.com/2018/08/20/trigonometry-you-must-know/)
 * [前端关于单点登录的知识](https://juejin.im/post/5b73c71fe51d45666016655a) 
+
+## 2018-8-25
+
+* [一篇文章带你入门Mongoose](https://segmentfault.com/a/1190000012095054#articleHeader20) 
