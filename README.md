@@ -21,3 +21,7 @@ article, blog, repository
 ## 2018-8-25
 
 * [一篇文章带你入门Mongoose](https://segmentfault.com/a/1190000012095054#articleHeader20) 
+
+## 2018-8-27
+
+* [CS-Notes](https://github.com/CyC2018/CS-Notes)
