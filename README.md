@@ -28,4 +28,4 @@ article, blog, repository
 
 ## 2018-8-29
 
-* [https://juejin.im/post/5a4502be6fb9a0450d1162ed](https://juejin.im/post/5a4502be6fb9a0450d1162ed)
+* [webpack中的hash、chunkhash、contenthash区别](https://juejin.im/post/5a4502be6fb9a0450d1162ed)
