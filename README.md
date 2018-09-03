@@ -34,3 +34,7 @@ article, blog, repository
 ## 2018-8-30
 
 * [命令行的艺术](https://github.com/jlevy/the-art-of-command-line/blob/master/README-zh.md) 
+
+## 2018-09-03
+
+* [从 JavaScript 到 TypeScript 4 - 装饰器和反射](https://tasaid.com/Blog/20171011233014.html) 
