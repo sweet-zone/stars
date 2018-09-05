@@ -38,3 +38,7 @@ article, blog, repository
 ## 2018-09-03
 
 * [从 JavaScript 到 TypeScript 4 - 装饰器和反射](https://tasaid.com/Blog/20171011233014.html) 
+
+## 2018-09-05
+
+* [jumpai 自定义游戏](http://jumpai.net/) 
