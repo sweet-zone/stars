@@ -47,3 +47,4 @@ article, blog, repository
 ## 2018-09-06
 
 * [学习正则表达式](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
+* [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/) 
