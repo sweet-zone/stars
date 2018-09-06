@@ -43,3 +43,7 @@ article, blog, repository
 
 * [jumpai 自定义游戏](http://jumpai.net/) 
 * [2D Tilemap Collision](https://jonathanwhiting.com/tutorial/collision/) 
+
+## 2018-09-06
+
+* [学习正则表达式](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
