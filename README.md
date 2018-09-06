@@ -48,3 +48,4 @@ article, blog, repository
 
 * [学习正则表达式](https://github.com/zeeshanu/learn-regex/blob/master/README-cn.md)
 * [FLIP Your Animations](https://aerotwist.com/blog/flip-your-animations/) 
+* [FLIP Your Animations翻译](http://web.jobbole.com/83598/)  
