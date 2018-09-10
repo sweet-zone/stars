@@ -53,3 +53,7 @@ article, blog, repository
 ## 2018-09-07
 
 * [【资源集合】 ES6 元编程（Proxy & Reflect & Symbol）](https://segmentfault.com/a/1190000016133613)
+
+## 2018-09-10
+
+* [bash-guide](https://github.com/Idnan/bash-guide)
