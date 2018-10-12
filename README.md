@@ -57,3 +57,8 @@ article, blog, repository
 ## 2018-09-10
 
 * [bash-guide](https://github.com/Idnan/bash-guide)
+
+## 2018-10-12
+
+* [犀利的 Async Hooks](https://mp.weixin.qq.com/s/2OmDczxmBBimFWslqCV0xg)
+* [【译】使用 ndb 调试 node 应用](https://zhuanlan.zhihu.com/p/45851471)
