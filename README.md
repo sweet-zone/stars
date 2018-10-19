@@ -62,3 +62,7 @@ article, blog, repository
 
 * [犀利的 Async Hooks](https://mp.weixin.qq.com/s/2OmDczxmBBimFWslqCV0xg)
 * [【译】使用 ndb 调试 node 应用](https://zhuanlan.zhihu.com/p/45851471)
+
+## 2018-10-23
+
+* [可以说的秘密-那些我们该讨论的前端加密方法](https://mp.weixin.qq.com/s/0gSBSEWX9gqVRktzChXXQA)
