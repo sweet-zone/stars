@@ -66,3 +66,4 @@ article, blog, repository
 ## 2018-10-23
 
 * [可以说的秘密-那些我们该讨论的前端加密方法](https://mp.weixin.qq.com/s/0gSBSEWX9gqVRktzChXXQA)
+* [图像处理 - ImageMagick 简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
