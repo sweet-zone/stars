@@ -63,7 +63,11 @@ article, blog, repository
 * [犀利的 Async Hooks](https://mp.weixin.qq.com/s/2OmDczxmBBimFWslqCV0xg)
 * [【译】使用 ndb 调试 node 应用](https://zhuanlan.zhihu.com/p/45851471)
 
-## 2018-10-23
+## 2018-10-22
 
 * [可以说的秘密-那些我们该讨论的前端加密方法](https://mp.weixin.qq.com/s/0gSBSEWX9gqVRktzChXXQA)
 * [图像处理 - ImageMagick 简单介绍与案例](https://aotu.io/notes/2018/06/06/ImageMagick_intro/)
+
+## 2018-10-23
+
+* [可能是把 ZooKeeper 概念讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/OzVlgGEaLRgnhhK9gEd9xQ)
