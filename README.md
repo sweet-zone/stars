@@ -71,3 +71,7 @@ article, blog, repository
 ## 2018-10-23
 
 * [可能是把 ZooKeeper 概念讲的最清楚的一篇文章](https://mp.weixin.qq.com/s/OzVlgGEaLRgnhhK9gEd9xQ)
+
+## 2018-10-30
+
+* [前端必会的 Nginx入门视频教程(共11集)](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
