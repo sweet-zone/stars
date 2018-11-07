@@ -75,3 +75,7 @@ article, blog, repository
 ## 2018-10-30
 
 * [前端必会的 Nginx入门视频教程(共11集)](https://juejin.im/post/5bd7a6046fb9a05d2c43f8c7)
+
+## 2018-11-07
+
+* [每个 JavaScript 工程师都应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
