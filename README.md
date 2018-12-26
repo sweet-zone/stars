@@ -79,3 +79,7 @@ article, blog, repository
 ## 2018-11-07
 
 * [每个 JavaScript 工程师都应懂的33个概念 ](https://github.com/stephentian/33-js-concepts)
+
+## 2018-12-26
+
+* [2018 年了，你还是只会 npm install 吗？](https://juejin.im/post/5ab3f77df265da2392364341)
