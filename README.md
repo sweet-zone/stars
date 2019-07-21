@@ -88,3 +88,13 @@ article, blog, repository
 
 * [VueSSR高阶指南](https://juejin.im/post/5b8e64c5f265da43481607a1)
 * [Node.js环境性能监控](https://mp.weixin.qq.com/s/bWP1AtARhHkDhamGTAuTPg)
+
+---
+又懒了~~~~
+---
+
+## 2019-07-21
+
+* [揭开在线协作的神秘面纱 – OT算法](http://www.alloyteam.com/2019/07/13659/) 
+* [Lodash 严重安全漏洞背后 你不得不知道的 JavaScript 知识](https://zhuanlan.zhihu.com/p/73186974)
+* [一文搞清楚前端 polyfill](https://zhuanlan.zhihu.com/p/71640183)
