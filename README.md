@@ -91,10 +91,17 @@ article, blog, repository
 
 ---
 又懒了~~~~
+
 ---
+
 
 ## 2019-07-21
 
 * [揭开在线协作的神秘面纱 – OT算法](http://www.alloyteam.com/2019/07/13659/) 
 * [Lodash 严重安全漏洞背后 你不得不知道的 JavaScript 知识](https://zhuanlan.zhihu.com/p/73186974)
 * [一文搞清楚前端 polyfill](https://zhuanlan.zhihu.com/p/71640183)
+
+## 2019-07-26
+
+* [Puppeteer性能优化与执行速度提升](https://blog.it2048.cn/article-puppeteer-speed-up/)
+* [动态 Polyfill 解决方案](http://cbutech.net/index.php/archives/264)
